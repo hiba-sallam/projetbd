@@ -1,2 +1,3 @@
-# projetbd
-partie 2 du project de base de donner
+# projectbd
+prtie1 et 2
+
